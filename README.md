@@ -7,7 +7,7 @@ I'm Daniel Velazquez, Fullstack Web Developer from Brazil.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaniot&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens utilizadas
+### Most used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniot&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

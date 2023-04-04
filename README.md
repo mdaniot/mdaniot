@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
-<!--
-**mdaniot/mdaniot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### About me
+I'm Daniel Velazquez, Fullstack Web Developer form Brazil.
 
-Here are some ideas to get you started:
+### Details
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaniot&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniot&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/daniot/)
+
+<img src="https://img.shields.io/badge/-dan.vel%40outlook.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>

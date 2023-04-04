@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 ###### About me
-I'm Daniel Velazquez, Fullstack Web Developer form Brazil.
+I'm Daniel Velazquez, Fullstack Web Developer from Brazil.
 
 ### Details
 

@@ -15,4 +15,5 @@ I'm Daniel Velazquez, Fullstack Web Developer form Brazil.
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/daniot/)
 
+<a href="mailto: dan.vel@outlook.com">
 <img src="https://img.shields.io/badge/-dan.vel%40outlook.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
